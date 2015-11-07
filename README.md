@@ -1,5 +1,7 @@
 SMQTK
 =====
+
+[![Join the chat at https://gitter.im/anguoyang/SMQTK](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anguoyang/SMQTK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Social Multimedia Query ToolKit aims to provide a simple and easy to use interface for content descriptor generation for machine learning, content similarity computation (kNN implementations), and ranking for online Iterative Query Refinement (IQR) adjudications.
 
 
